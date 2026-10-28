@@ -20,7 +20,7 @@ Book.parts = [
   { title: 'Начало', chapters: ['ch0'] },
   { title: 'Часть I. Основа', chapters: ['ch1', 'ch2', 'ch3', 'ch4'] },
   { title: 'Часть II. Измерение', chapters: ['ch5', 'ch6', 'ch7', 'ch8', 'ch9', 'ch10'] },
-  { title: 'Часть III. Семантика и рынок', chapters: ['ch11', 'ch12', 'ch13', 'ch14', 'ch15'] },
+  { title: 'Часть III. Семантика и рынок', chapters: ['ch11', 'ch31', 'ch12', 'ch13', 'ch14', 'ch15'] },
   { title: 'Часть IV. Google Ads', chapters: ['ch16', 'ch17', 'ch18', 'ch19', 'ch20'] },
   { title: 'Часть V. Яндекс Директ', chapters: ['ch21', 'ch22', 'ch23'] },
   { title: 'Часть VI. Сайт и креатив', chapters: ['ch24', 'ch25'] },
