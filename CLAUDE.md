@@ -92,3 +92,7 @@ Before sending, scan the text for banned constructions and rewrite them. If a pa
 ## Site content
 
 The style rules above apply to every text and study material on the site. Page structure, components and visual rules: `docs/design-requirements.md`.
+
+Claude Code writes the site code and the study materials. I review facts, numbers and platform UI names. The handbook is written in full (30 chapters, status draft until I review them). Review order follows the months of `docs/plan-6-months.md`. Every page and every design passes the AI slop checklist (the design-anti-slop skill) and a screenshot check before it is considered done.
+
+Agent code for my own learning uses my main stack: TypeScript, Next.js, PostgreSQL on Neon (pgvector for RAG), LangGraph.js.
