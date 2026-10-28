@@ -27,3 +27,4 @@ Book.parts = [
   { title: 'Часть VII. Работа с клиентом', chapters: ['ch26', 'ch27', 'ch28', 'ch29'] },
   { title: 'Часть VIII. Автоматизация', chapters: ['ch30'] }
 ];
+
